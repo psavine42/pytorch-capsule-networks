@@ -1,0 +1,8 @@
+svhn
+misc
+runs
+models
+data
+__pycache__
+README.md
+.gitignore
